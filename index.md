@@ -4,8 +4,8 @@ venue: "San Diego State University"        # brief name of host site without add
 address: "Storm Hall 324/331"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-latitude: "45"     # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-1"    # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: "32.777419"     # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "-117.073996"    # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "March 20-21, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 AM - 4:30 PM"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-03-20      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
