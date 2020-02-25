@@ -70,7 +70,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
 {% if page.eventbrite %}
 <iframe
-  src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
+  src="http://bit.ly/Data-Workshop-SDSU"
   frameborder="0"
   width="100%"
   height="280px"
